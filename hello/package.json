@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "hello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mpaz",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
